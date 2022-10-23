@@ -36,7 +36,8 @@
 
   }
  canvas{
-  border-width: 20px;
+  border-width: 10px;
   border-color: black;
   border-style: solid;
+  border-radius: 20px;
  }
